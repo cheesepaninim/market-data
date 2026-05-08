@@ -1,0 +1,36 @@
+{
+  "updated_at": "2026-05-08T07:26:42Z",
+  "comment": "큰 이벤트 없이 잠잠한 하루.",
+  "indicators": [
+    {
+      "name": "S&P 500",
+      "value": "7,337",
+      "delta": "-0.38%",
+      "direction": "down"
+    },
+    {
+      "name": "VIX",
+      "value": "17.1",
+      "delta": "-1.8%",
+      "direction": "down"
+    },
+    {
+      "name": "DXY",
+      "value": "98.1",
+      "delta": "-0.14%",
+      "direction": "down"
+    },
+    {
+      "name": "10Y",
+      "value": "4.39%",
+      "delta": "+4bp",
+      "direction": "up"
+    },
+    {
+      "name": "F&G",
+      "value": "38",
+      "delta": "Fear",
+      "direction": "down"
+    }
+  ]
+}
