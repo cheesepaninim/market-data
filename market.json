@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-09T13:35:40Z",
+  "updated_at": "2026-05-10T13:36:12Z",
   "comment": "큰 이벤트 없이 잠잠한 하루.",
   "indicators": [
     {
@@ -28,9 +28,9 @@
     },
     {
       "name": "F&G",
-      "value": "38",
-      "delta": "Fear",
-      "direction": "down"
+      "value": "47",
+      "delta": "Neutral",
+      "direction": "flat"
     }
   ]
 }
