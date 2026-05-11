@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T01:12:24Z",
+  "updated_at": "2026-05-11T03:07:39Z",
   "comment": "큰 이벤트 없이 잠잠한 하루.",
   "indicators": [
     {
@@ -9,9 +9,9 @@
       "direction": "up"
     },
     {
-      "name": "KOSPI",
-      "value": "7,851",
-      "delta": "+4.70%",
+      "name": "Nasdaq",
+      "value": "26,247",
+      "delta": "+1.71%",
       "direction": "up"
     },
     {
@@ -22,8 +22,14 @@
     },
     {
       "name": "DXY",
-      "value": "98.0",
-      "delta": "+0.18%",
+      "value": "98.1",
+      "delta": "+0.24%",
+      "direction": "up"
+    },
+    {
+      "name": "USD/JPY",
+      "value": "157.15",
+      "delta": "+0.21%",
       "direction": "up"
     },
     {
@@ -33,10 +39,22 @@
       "direction": "down"
     },
     {
-      "name": "F&G",
-      "value": "48",
-      "delta": "Neutral",
-      "direction": "flat"
+      "name": "Gold",
+      "value": "4,687",
+      "delta": "-0.70%",
+      "direction": "down"
+    },
+    {
+      "name": "WTI",
+      "value": "99.77",
+      "delta": "+4.56%",
+      "direction": "up"
+    },
+    {
+      "name": "BTC",
+      "value": "81,042",
+      "delta": "+0.47%",
+      "direction": "up"
     }
   ]
 }
