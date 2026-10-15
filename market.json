@@ -1,61 +1,61 @@
 {
-  "updated_at": "2026-10-14T01:35:28Z",
-  "comment": "10Y 5.22%. 금리 부담 구간.",
-  "matched_rule": "yield_hot",
+  "updated_at": "2026-10-15T01:12:28Z",
+  "comment": "빅테크 단독 약세(나스닥 vs S&P 디커플링).",
+  "matched_rule": "tech_decouple",
   "indicators": [
     {
       "name": "S&P 500",
-      "value": "7,805",
-      "delta": "-0.02%",
-      "direction": "flat"
+      "value": "7,719",
+      "delta": "-1.11%",
+      "direction": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "27,204",
-      "delta": "-0.15%",
+      "value": "26,693",
+      "delta": "-1.88%",
       "direction": "down"
     },
     {
       "name": "VIX",
-      "value": "15.3",
-      "delta": "+0.4%",
+      "value": "16.9",
+      "delta": "+10.5%",
       "direction": "up"
     },
     {
       "name": "DXY",
-      "value": "102.2",
-      "delta": "-0.39%",
-      "direction": "down"
+      "value": "102.1",
+      "delta": "-0.04%",
+      "direction": "flat"
     },
     {
       "name": "USD/JPY",
-      "value": "158.43",
-      "delta": "-0.05%",
+      "value": "157.68",
+      "delta": "-0.41%",
       "direction": "down"
     },
     {
       "name": "10Y",
-      "value": "5.22%",
-      "delta": "-2bp",
+      "value": "5.19%",
+      "delta": "-3bp",
       "direction": "down"
     },
     {
       "name": "Gold",
-      "value": "—",
-      "delta": "—",
-      "direction": "flat"
+      "value": "4,171",
+      "delta": "-0.15%",
+      "direction": "down"
     },
     {
       "name": "WTI",
-      "value": "95.26",
-      "delta": "+1.62%",
+      "value": "94.25",
+      "delta": "+0.12%",
       "direction": "up"
     },
     {
       "name": "BTC",
-      "value": "83,181",
-      "delta": "+1.73%",
-      "direction": "up"
+      "value": "81,590",
+      "delta": "-1.81%",
+      "direction": "down"
     }
   ]
 }
