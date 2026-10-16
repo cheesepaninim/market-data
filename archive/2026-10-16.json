@@ -1,0 +1,61 @@
+{
+  "updated_at": "2026-10-16T00:59:53Z",
+  "comment": "금↑ 금리↓. 안전자산 쏠림.",
+  "matched_rule": "safe_haven",
+  "indicators": [
+    {
+      "name": "S&P 500",
+      "value": "7,744",
+      "delta": "+0.33%",
+      "direction": "up"
+    },
+    {
+      "name": "Nasdaq",
+      "value": "26,713",
+      "delta": "+0.08%",
+      "direction": "up"
+    },
+    {
+      "name": "VIX",
+      "value": "16.5",
+      "delta": "-2.4%",
+      "direction": "down"
+    },
+    {
+      "name": "DXY",
+      "value": "102.1",
+      "delta": "-0.47%",
+      "direction": "down"
+    },
+    {
+      "name": "USD/JPY",
+      "value": "158.16",
+      "delta": "+0.13%",
+      "direction": "up"
+    },
+    {
+      "name": "10Y",
+      "value": "5.09%",
+      "delta": "-10bp",
+      "direction": "down"
+    },
+    {
+      "name": "Gold",
+      "value": "4,176",
+      "delta": "+1.66%",
+      "direction": "up"
+    },
+    {
+      "name": "WTI",
+      "value": "95.98",
+      "delta": "+0.94%",
+      "direction": "up"
+    },
+    {
+      "name": "BTC",
+      "value": "82,232",
+      "delta": "+0.82%",
+      "direction": "up"
+    }
+  ]
+}
