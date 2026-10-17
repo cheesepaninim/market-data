@@ -1,61 +1,61 @@
 {
-  "updated_at": "2026-10-16T00:59:53Z",
-  "comment": "금↑ 금리↓. 안전자산 쏠림.",
-  "matched_rule": "safe_haven",
+  "updated_at": "2026-10-17T01:03:20Z",
+  "comment": "빅테크 단독 약세(나스닥 vs S&P 디커플링).",
+  "matched_rule": "tech_decouple",
   "indicators": [
     {
       "name": "S&P 500",
-      "value": "7,744",
-      "delta": "+0.33%",
-      "direction": "up"
-    },
-    {
-      "name": "Nasdaq",
-      "value": "26,713",
-      "delta": "+0.08%",
-      "direction": "up"
-    },
-    {
-      "name": "VIX",
-      "value": "16.5",
-      "delta": "-2.4%",
+      "value": "7,659",
+      "delta": "-1.09%",
       "direction": "down"
     },
     {
+      "name": "Nasdaq",
+      "value": "26,140",
+      "delta": "-2.15%",
+      "direction": "down"
+    },
+    {
+      "name": "VIX",
+      "value": "20.0",
+      "delta": "+21.4%",
+      "direction": "up"
+    },
+    {
       "name": "DXY",
-      "value": "102.1",
-      "delta": "-0.47%",
+      "value": "101.8",
+      "delta": "-0.22%",
       "direction": "down"
     },
     {
       "name": "USD/JPY",
-      "value": "158.16",
-      "delta": "+0.13%",
-      "direction": "up"
+      "value": "157.99",
+      "delta": "+0.02%",
+      "direction": "flat"
     },
     {
       "name": "10Y",
-      "value": "5.09%",
-      "delta": "-10bp",
-      "direction": "down"
+      "value": "5.10%",
+      "delta": "+1bp",
+      "direction": "up"
     },
     {
       "name": "Gold",
-      "value": "4,176",
-      "delta": "+1.66%",
+      "value": "4,187",
+      "delta": "+0.40%",
       "direction": "up"
     },
     {
       "name": "WTI",
-      "value": "95.98",
-      "delta": "+0.94%",
+      "value": "99.04",
+      "delta": "+1.09%",
       "direction": "up"
     },
     {
       "name": "BTC",
-      "value": "82,232",
-      "delta": "+0.82%",
-      "direction": "up"
+      "value": "81,442",
+      "delta": "-0.85%",
+      "direction": "down"
     }
   ]
 }

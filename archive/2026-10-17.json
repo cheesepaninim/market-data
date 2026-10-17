@@ -1,0 +1,61 @@
+{
+  "updated_at": "2026-10-17T01:03:20Z",
+  "comment": "빅테크 단독 약세(나스닥 vs S&P 디커플링).",
+  "matched_rule": "tech_decouple",
+  "indicators": [
+    {
+      "name": "S&P 500",
+      "value": "7,659",
+      "delta": "-1.09%",
+      "direction": "down"
+    },
+    {
+      "name": "Nasdaq",
+      "value": "26,140",
+      "delta": "-2.15%",
+      "direction": "down"
+    },
+    {
+      "name": "VIX",
+      "value": "20.0",
+      "delta": "+21.4%",
+      "direction": "up"
+    },
+    {
+      "name": "DXY",
+      "value": "101.8",
+      "delta": "-0.22%",
+      "direction": "down"
+    },
+    {
+      "name": "USD/JPY",
+      "value": "157.99",
+      "delta": "+0.02%",
+      "direction": "flat"
+    },
+    {
+      "name": "10Y",
+      "value": "5.10%",
+      "delta": "+1bp",
+      "direction": "up"
+    },
+    {
+      "name": "Gold",
+      "value": "4,187",
+      "delta": "+0.40%",
+      "direction": "up"
+    },
+    {
+      "name": "WTI",
+      "value": "99.04",
+      "delta": "+1.09%",
+      "direction": "up"
+    },
+    {
+      "name": "BTC",
+      "value": "81,442",
+      "delta": "-0.85%",
+      "direction": "down"
+    }
+  ]
+}
