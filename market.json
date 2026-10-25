@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T01:21:16Z",
+  "updated_at": "2026-10-25T00:49:26Z",
   "comment": "10Y 4.99%. 금리 부담 구간.",
   "matched_rule": "yield_hot",
   "indicators": [
@@ -24,7 +24,7 @@
     {
       "name": "DXY",
       "value": "101.8",
-      "delta": "+0.14%",
+      "delta": "+0.20%",
       "direction": "up"
     },
     {
@@ -41,20 +41,20 @@
     },
     {
       "name": "Gold",
-      "value": "4,010",
-      "delta": "-1.24%",
+      "value": "4,008",
+      "delta": "-1.29%",
       "direction": "down"
     },
     {
       "name": "WTI",
-      "value": "103.44",
-      "delta": "+3.99%",
+      "value": "103.27",
+      "delta": "+3.82%",
       "direction": "up"
     },
     {
       "name": "BTC",
-      "value": "80,708",
-      "delta": "-0.74%",
+      "value": "80,796",
+      "delta": "-0.34%",
       "direction": "down"
     }
   ]
