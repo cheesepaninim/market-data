@@ -1,0 +1,61 @@
+{
+  "updated_at": "2026-10-30T02:24:17Z",
+  "comment": "BTC -5.2%. 위험심리 극단.",
+  "matched_rule": "btc_drop",
+  "indicators": [
+    {
+      "name": "S&P 500",
+      "value": "7,720",
+      "delta": "-0.30%",
+      "direction": "down"
+    },
+    {
+      "name": "Nasdaq",
+      "value": "26,185",
+      "delta": "-1.38%",
+      "direction": "down"
+    },
+    {
+      "name": "VIX",
+      "value": "17.2",
+      "delta": "+1.7%",
+      "direction": "up"
+    },
+    {
+      "name": "DXY",
+      "value": "101.7",
+      "delta": "-0.45%",
+      "direction": "down"
+    },
+    {
+      "name": "USD/JPY",
+      "value": "157.49",
+      "delta": "-0.22%",
+      "direction": "down"
+    },
+    {
+      "name": "10Y",
+      "value": "4.99%",
+      "delta": "-6bp",
+      "direction": "down"
+    },
+    {
+      "name": "Gold",
+      "value": "4,023",
+      "delta": "-0.71%",
+      "direction": "down"
+    },
+    {
+      "name": "WTI",
+      "value": "104.20",
+      "delta": "+1.38%",
+      "direction": "up"
+    },
+    {
+      "name": "BTC",
+      "value": "77,048",
+      "delta": "-5.19%",
+      "direction": "down"
+    }
+  ]
+}
