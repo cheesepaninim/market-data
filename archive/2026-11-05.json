@@ -1,0 +1,61 @@
+{
+  "updated_at": "2026-11-05T03:08:26Z",
+  "comment": "WTI -9.3%. 원자재 충격.",
+  "matched_rule": "wti_shock",
+  "indicators": [
+    {
+      "name": "S&P 500",
+      "value": "7,689",
+      "delta": "+1.58%",
+      "direction": "up"
+    },
+    {
+      "name": "Nasdaq",
+      "value": "25,737",
+      "delta": "+1.44%",
+      "direction": "up"
+    },
+    {
+      "name": "VIX",
+      "value": "16.6",
+      "delta": "-20.3%",
+      "direction": "down"
+    },
+    {
+      "name": "DXY",
+      "value": "101.3",
+      "delta": "-0.56%",
+      "direction": "down"
+    },
+    {
+      "name": "USD/JPY",
+      "value": "157.90",
+      "delta": "-0.36%",
+      "direction": "down"
+    },
+    {
+      "name": "10Y",
+      "value": "4.89%",
+      "delta": "-6bp",
+      "direction": "down"
+    },
+    {
+      "name": "Gold",
+      "value": "—",
+      "delta": "—",
+      "direction": "flat"
+    },
+    {
+      "name": "WTI",
+      "value": "87.11",
+      "delta": "-9.35%",
+      "direction": "down"
+    },
+    {
+      "name": "BTC",
+      "value": "80,472",
+      "delta": "+4.04%",
+      "direction": "up"
+    }
+  ]
+}
