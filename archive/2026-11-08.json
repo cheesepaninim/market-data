@@ -1,0 +1,61 @@
+{
+  "updated_at": "2026-11-08T02:02:55Z",
+  "comment": "10Y 4.86%. 금리 부담 구간.",
+  "matched_rule": "yield_hot",
+  "indicators": [
+    {
+      "name": "S&P 500",
+      "value": "7,377",
+      "delta": "+0.31%",
+      "direction": "up"
+    },
+    {
+      "name": "Nasdaq",
+      "value": "24,579",
+      "delta": "+1.09%",
+      "direction": "up"
+    },
+    {
+      "name": "VIX",
+      "value": "25.6",
+      "delta": "-9.0%",
+      "direction": "down"
+    },
+    {
+      "name": "DXY",
+      "value": "102.3",
+      "delta": "+0.74%",
+      "direction": "up"
+    },
+    {
+      "name": "USD/JPY",
+      "value": "158.43",
+      "delta": "+0.59%",
+      "direction": "up"
+    },
+    {
+      "name": "10Y",
+      "value": "4.86%",
+      "delta": "+2bp",
+      "direction": "up"
+    },
+    {
+      "name": "Gold",
+      "value": "4,075",
+      "delta": "-0.94%",
+      "direction": "down"
+    },
+    {
+      "name": "WTI",
+      "value": "90.83",
+      "delta": "+0.34%",
+      "direction": "up"
+    },
+    {
+      "name": "BTC",
+      "value": "75,616",
+      "delta": "-0.17%",
+      "direction": "down"
+    }
+  ]
+}
