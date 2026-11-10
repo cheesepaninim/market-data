@@ -1,0 +1,61 @@
+{
+  "updated_at": "2026-11-10T04:29:20Z",
+  "comment": "S&P +2.35%. 큰 매수 압력.",
+  "matched_rule": "sp_jump",
+  "indicators": [
+    {
+      "name": "S&P 500",
+      "value": "7,550",
+      "delta": "+2.35%",
+      "direction": "up"
+    },
+    {
+      "name": "Nasdaq",
+      "value": "25,253",
+      "delta": "+2.74%",
+      "direction": "up"
+    },
+    {
+      "name": "VIX",
+      "value": "19.9",
+      "delta": "-22.3%",
+      "direction": "down"
+    },
+    {
+      "name": "DXY",
+      "value": "101.7",
+      "delta": "-0.61%",
+      "direction": "down"
+    },
+    {
+      "name": "USD/JPY",
+      "value": "158.00",
+      "delta": "-0.19%",
+      "direction": "down"
+    },
+    {
+      "name": "10Y",
+      "value": "4.86%",
+      "delta": "+0bp",
+      "direction": "up"
+    },
+    {
+      "name": "Gold",
+      "value": "4,122",
+      "delta": "+1.15%",
+      "direction": "up"
+    },
+    {
+      "name": "WTI",
+      "value": "85.93",
+      "delta": "-5.39%",
+      "direction": "down"
+    },
+    {
+      "name": "BTC",
+      "value": "74,720",
+      "delta": "+0.18%",
+      "direction": "up"
+    }
+  ]
+}

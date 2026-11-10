@@ -1,61 +1,61 @@
 {
-  "updated_at": "2026-11-09T02:21:40Z",
-  "comment": "10Y 4.86%. 금리 부담 구간.",
-  "matched_rule": "yield_hot",
+  "updated_at": "2026-11-10T04:29:20Z",
+  "comment": "S&P +2.35%. 큰 매수 압력.",
+  "matched_rule": "sp_jump",
   "indicators": [
     {
       "name": "S&P 500",
-      "value": "7,377",
-      "delta": "+0.31%",
+      "value": "7,550",
+      "delta": "+2.35%",
       "direction": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "24,579",
-      "delta": "+1.09%",
+      "value": "25,253",
+      "delta": "+2.74%",
       "direction": "up"
     },
     {
       "name": "VIX",
-      "value": "25.6",
-      "delta": "-9.0%",
+      "value": "19.9",
+      "delta": "-22.3%",
       "direction": "down"
     },
     {
       "name": "DXY",
-      "value": "102.2",
-      "delta": "-0.14%",
+      "value": "101.7",
+      "delta": "-0.61%",
       "direction": "down"
     },
     {
       "name": "USD/JPY",
-      "value": "158.20",
-      "delta": "+0.45%",
-      "direction": "up"
+      "value": "158.00",
+      "delta": "-0.19%",
+      "direction": "down"
     },
     {
       "name": "10Y",
       "value": "4.86%",
-      "delta": "+2bp",
+      "delta": "+0bp",
       "direction": "up"
     },
     {
       "name": "Gold",
-      "value": "4,138",
-      "delta": "+1.54%",
+      "value": "4,122",
+      "delta": "+1.15%",
       "direction": "up"
     },
     {
       "name": "WTI",
-      "value": "90.81",
-      "delta": "-0.02%",
-      "direction": "flat"
+      "value": "85.93",
+      "delta": "-5.39%",
+      "direction": "down"
     },
     {
       "name": "BTC",
-      "value": "75,228",
-      "delta": "-0.69%",
-      "direction": "down"
+      "value": "74,720",
+      "delta": "+0.18%",
+      "direction": "up"
     }
   ]
 }
