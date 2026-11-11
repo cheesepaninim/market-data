@@ -1,61 +1,61 @@
 {
-  "updated_at": "2026-11-10T04:29:20Z",
-  "comment": "S&P +2.35%. 큰 매수 압력.",
-  "matched_rule": "sp_jump",
+  "updated_at": "2026-11-11T02:31:44Z",
+  "comment": "달러·금리 동반 강세. 위험자산 부담.",
+  "matched_rule": "dollar_yield",
   "indicators": [
     {
       "name": "S&P 500",
-      "value": "7,550",
-      "delta": "+2.35%",
-      "direction": "up"
+      "value": "7,521",
+      "delta": "-0.38%",
+      "direction": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "25,253",
-      "delta": "+2.74%",
-      "direction": "up"
+      "value": "25,066",
+      "delta": "-0.74%",
+      "direction": "down"
     },
     {
       "name": "VIX",
-      "value": "19.9",
-      "delta": "-22.3%",
+      "value": "19.5",
+      "delta": "-2.3%",
       "direction": "down"
     },
     {
       "name": "DXY",
-      "value": "101.7",
-      "delta": "-0.61%",
-      "direction": "down"
+      "value": "102.2",
+      "delta": "+0.58%",
+      "direction": "up"
     },
     {
       "name": "USD/JPY",
-      "value": "158.00",
-      "delta": "-0.19%",
-      "direction": "down"
+      "value": "158.82",
+      "delta": "+0.53%",
+      "direction": "up"
     },
     {
       "name": "10Y",
-      "value": "4.86%",
-      "delta": "+0bp",
+      "value": "4.98%",
+      "delta": "+12bp",
       "direction": "up"
     },
     {
       "name": "Gold",
-      "value": "4,122",
-      "delta": "+1.15%",
-      "direction": "up"
+      "value": "4,048",
+      "delta": "-1.61%",
+      "direction": "down"
     },
     {
       "name": "WTI",
-      "value": "85.93",
-      "delta": "-5.39%",
+      "value": "86.53",
+      "delta": "-0.37%",
       "direction": "down"
     },
     {
       "name": "BTC",
-      "value": "74,720",
-      "delta": "+0.18%",
-      "direction": "up"
+      "value": "73,237",
+      "delta": "-2.64%",
+      "direction": "down"
     }
   ]
 }
