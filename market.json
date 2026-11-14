@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-11-13T03:08:11Z",
-  "comment": "BTC -5.3%. 위험심리 극단.",
+  "updated_at": "2026-11-14T02:54:14Z",
+  "comment": "BTC -5.2%. 위험심리 극단.",
   "matched_rule": "btc_drop",
   "indicators": [
     {
       "name": "S&P 500",
-      "value": "7,592",
-      "delta": "-0.35%",
+      "value": "7,562",
+      "delta": "-0.40%",
       "direction": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "25,366",
-      "delta": "-0.39%",
+      "value": "25,136",
+      "delta": "-0.91%",
       "direction": "down"
     },
     {
       "name": "VIX",
-      "value": "18.7",
-      "delta": "+6.9%",
+      "value": "19.3",
+      "delta": "+3.2%",
       "direction": "up"
     },
     {
       "name": "DXY",
-      "value": "103.2",
-      "delta": "+0.25%",
+      "value": "103.4",
+      "delta": "+0.23%",
       "direction": "up"
     },
     {
       "name": "USD/JPY",
-      "value": "159.93",
-      "delta": "+0.12%",
+      "value": "159.88",
+      "delta": "+0.09%",
       "direction": "up"
     },
     {
       "name": "10Y",
-      "value": "5.10%",
-      "delta": "+10bp",
+      "value": "5.15%",
+      "delta": "+5bp",
       "direction": "up"
     },
     {
       "name": "Gold",
-      "value": "3,912",
-      "delta": "-2.21%",
-      "direction": "down"
+      "value": "3,888",
+      "delta": "+0.06%",
+      "direction": "up"
     },
     {
       "name": "WTI",
-      "value": "88.23",
-      "delta": "+1.96%",
+      "value": "88.92",
+      "delta": "+0.20%",
       "direction": "up"
     },
     {
       "name": "BTC",
-      "value": "70,045",
-      "delta": "-5.30%",
+      "value": "67,617",
+      "delta": "-5.22%",
       "direction": "down"
     }
   ]
