@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14T02:54:14Z",
-  "comment": "BTC -5.2%. 위험심리 극단.",
+  "updated_at": "2026-11-15T02:23:04Z",
+  "comment": "BTC -5.7%. 위험심리 극단.",
   "matched_rule": "btc_drop",
   "indicators": [
     {
@@ -41,20 +41,20 @@
     },
     {
       "name": "Gold",
-      "value": "3,888",
-      "delta": "+0.06%",
-      "direction": "up"
+      "value": "3,886",
+      "delta": "+0.03%",
+      "direction": "flat"
     },
     {
       "name": "WTI",
-      "value": "88.92",
-      "delta": "+0.20%",
-      "direction": "up"
+      "value": "88.56",
+      "delta": "-0.20%",
+      "direction": "down"
     },
     {
       "name": "BTC",
-      "value": "67,617",
-      "delta": "-5.22%",
+      "value": "64,329",
+      "delta": "-5.74%",
       "direction": "down"
     }
   ]
