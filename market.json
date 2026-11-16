@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-15T02:23:04Z",
-  "comment": "BTC -5.7%. 위험심리 극단.",
-  "matched_rule": "btc_drop",
+  "updated_at": "2026-11-16T02:33:26Z",
+  "comment": "10Y 5.15%. 금리 부담 구간.",
+  "matched_rule": "yield_hot",
   "indicators": [
     {
       "name": "S&P 500",
@@ -24,14 +24,14 @@
     {
       "name": "DXY",
       "value": "103.4",
-      "delta": "+0.23%",
-      "direction": "up"
+      "delta": "+0.03%",
+      "direction": "flat"
     },
     {
       "name": "USD/JPY",
-      "value": "159.88",
-      "delta": "+0.09%",
-      "direction": "up"
+      "value": "159.74",
+      "delta": "-0.09%",
+      "direction": "down"
     },
     {
       "name": "10Y",
@@ -41,21 +41,21 @@
     },
     {
       "name": "Gold",
-      "value": "3,886",
-      "delta": "+0.03%",
+      "value": "3,888",
+      "delta": "+0.04%",
       "direction": "flat"
     },
     {
       "name": "WTI",
-      "value": "88.56",
-      "delta": "-0.20%",
+      "value": "88.09",
+      "delta": "-0.53%",
       "direction": "down"
     },
     {
       "name": "BTC",
-      "value": "64,329",
-      "delta": "-5.74%",
-      "direction": "down"
+      "value": "65,093",
+      "delta": "+1.51%",
+      "direction": "up"
     }
   ]
 }
