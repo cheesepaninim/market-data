@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-11-19T03:58:00Z",
-  "comment": "WTI -4.7%. 원자재 충격.",
-  "matched_rule": "wti_shock",
+  "updated_at": "2026-11-20T03:51:57Z",
+  "comment": "S&P -2.02%. 큰 매도 압력.",
+  "matched_rule": "sp_drop",
   "indicators": [
     {
       "name": "S&P 500",
-      "value": "7,324",
-      "delta": "-0.23%",
+      "value": "7,176",
+      "delta": "-2.02%",
       "direction": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "24,430",
-      "delta": "+0.42%",
-      "direction": "up"
-    },
-    {
-      "name": "VIX",
-      "value": "24.6",
-      "delta": "-3.5%",
+      "value": "23,879",
+      "delta": "-2.25%",
       "direction": "down"
     },
     {
-      "name": "DXY",
-      "value": "104.0",
-      "delta": "+0.46%",
+      "name": "VIX",
+      "value": "28.4",
+      "delta": "+15.8%",
       "direction": "up"
     },
     {
-      "name": "USD/JPY",
-      "value": "159.58",
-      "delta": "+0.05%",
+      "name": "DXY",
+      "value": "—",
+      "delta": "—",
       "direction": "flat"
     },
     {
+      "name": "USD/JPY",
+      "value": "159.22",
+      "delta": "-0.10%",
+      "direction": "down"
+    },
+    {
       "name": "10Y",
-      "value": "5.07%",
-      "delta": "-4bp",
+      "value": "5.05%",
+      "delta": "-1bp",
       "direction": "down"
     },
     {
       "name": "Gold",
-      "value": "3,715",
-      "delta": "-3.86%",
+      "value": "3,545",
+      "delta": "-5.27%",
       "direction": "down"
     },
     {
       "name": "WTI",
-      "value": "82.00",
-      "delta": "-4.66%",
+      "value": "82.89",
+      "delta": "-0.44%",
       "direction": "down"
     },
     {
       "name": "BTC",
-      "value": "63,139",
-      "delta": "-2.70%",
+      "value": "62,136",
+      "delta": "-1.35%",
       "direction": "down"
     }
   ]
