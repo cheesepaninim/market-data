@@ -1,0 +1,61 @@
+{
+  "updated_at": "2026-11-21T03:44:44Z",
+  "comment": "S&P -3.70%. 큰 매도 압력.",
+  "matched_rule": "sp_drop",
+  "indicators": [
+    {
+      "name": "S&P 500",
+      "value": "6,910",
+      "delta": "-3.70%",
+      "direction": "down"
+    },
+    {
+      "name": "Nasdaq",
+      "value": "22,618",
+      "delta": "-5.28%",
+      "direction": "down"
+    },
+    {
+      "name": "VIX",
+      "value": "—",
+      "delta": "—",
+      "direction": "flat"
+    },
+    {
+      "name": "DXY",
+      "value": "103.8",
+      "delta": "-0.06%",
+      "direction": "down"
+    },
+    {
+      "name": "USD/JPY",
+      "value": "159.71",
+      "delta": "+0.20%",
+      "direction": "up"
+    },
+    {
+      "name": "10Y",
+      "value": "4.91%",
+      "delta": "-14bp",
+      "direction": "down"
+    },
+    {
+      "name": "Gold",
+      "value": "3,539",
+      "delta": "-3.98%",
+      "direction": "down"
+    },
+    {
+      "name": "WTI",
+      "value": "83.62",
+      "delta": "+0.49%",
+      "direction": "up"
+    },
+    {
+      "name": "BTC",
+      "value": "56,513",
+      "delta": "-8.70%",
+      "direction": "down"
+    }
+  ]
+}
